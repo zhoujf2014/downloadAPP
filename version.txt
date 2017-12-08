@@ -1,1 +1,1 @@
-{"path":"https://github.com/zhoujf2014/downloadAPP/raw/master/app-debug.apk","version":5}
+{"path":"https://github.com/zhoujf2014/downloadAPP/raw/master/app-debug.apk","version":4}
